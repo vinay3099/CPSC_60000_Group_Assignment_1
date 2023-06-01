@@ -1,3 +1,15 @@
 [submodule "Group_Assignment/ck"]
 	path = Group_Assignment/ck
 	url = https://github.com/mauricioaniche/ck.git
+[submodule "Group_Assignment/druid"]
+	path = Group_Assignment/druid
+	url = https://github.com/alibaba/druid
+[submodule "Group_Assignment/guava"]
+	path = Group_Assignment/guava
+	url = https://github.com/google/guava
+[submodule "Group_Assignment/jadx"]
+	path = Group_Assignment/jadx
+	url = https://github.com/skylot/jadx
+[submodule "Group_Assignment/tutorials"]
+	path = Group_Assignment/tutorials
+	url = https://github.com/eugenp/tutorials
